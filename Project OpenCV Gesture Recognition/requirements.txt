@@ -1,0 +1,23 @@
+===============================================
+file yg wajib di download:
+1. client1.py
+2. gesture_recognizer.task
+
+nb: untuk file format ipynb hanya untuk membuat model cv nya
+
+===========================================
+HARAP INSTALL LIBRARY DIBWAH TERLEBIH DAHULU
+===========================================
+pip install opencv-python
+pip install mediapipe
+pip install paho.mqtt
+
+nb: kalo disuruh upgrade pip, tinggal ikutin perintah di vscode nya :D
+
+===========================================
+
+untuk bagian "inisialisasi model gesture recog" pada fie .py
+
+=> ubah dengan path file "gesture_recognizer.task" yg sudah anda download lalu klik kanan trus copy path file tersebut yg ada pada vscode anda
+=> saat path sudah ter-paste misal "C:\Users\gesture_recognizer.task" ubah menjadi ""C:\\Users\\gesture_recognizer.task" ( menggunakan double back slash \\ )
+=> lalu run, selesai
