@@ -1,0 +1,7 @@
+streamlit==1.16.0
+tensorflow==2.14.0
+tensorflow-hub==0.13.0
+Pillow==9.4.0
+matplotlib==3.7.1
+numpy==1.23.5
+altair==4.0.0
